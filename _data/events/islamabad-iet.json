@@ -1,34 +1,27 @@
 {
-  "title": "Islamabad IET Coderetreat",
-  "description": "A regular, on site Coderetreat on a Friday (not on weekend). Feel free to join.",
+  "title": "Coders Week Islamabad",
   "format": "classic",
-  "spoken_language": "English",
-  "url": "https://www.iet.edu.pk/coders/week",
-  "code_of_conduct": "https://iet.edu.pk/coders/code-of-conduct/",
+  "spoken_language": "Urdu",
+  "url": "iet.edu.pk/coders/week/event",
+  "code_of_conduct": "iet.edu.pk/coders/code-of-conduct/",
   "date": {
-    "start": "2022-8-25T08:45:00+02:00",
-    "end": "2022-10-25T17:00:00+02:00"
+    "start": "2022-09-30T09:00:00+05:00",
+    "end": "2022-09-30T21:00:00+05:00"
   },
   "moderators": [
     {
       "name": "Hasan"
-    },
-    {
-      "name": "Hasan",
-      "url": "https://twitter.com/coderhasan"
     }
   ],
   "sponsors": [
     {
-      "name": "IET Media Services",
-      "url": "https://www.iet.edu.pk/coders/media/"
+      "name": "Shabbir"
     }
   ],
   "location": {
-    "city": "Islamabad",
     "country": "Pakistan",
     "coordinates": {
-      "latitude": 33.6844
+      "latitude": 33.6844,
       "longitude": 73.0479
     }
   }
